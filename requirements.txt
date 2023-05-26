@@ -1,1 +1,6 @@
 flask
+cmake
+dlib
+firebase_admin
+opencv-python
+face_recognition
